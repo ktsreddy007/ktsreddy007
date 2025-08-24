@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Teja Surendar Reddy Kovvuri</h1>
-<h3 align="center">🚀 A passionate DevOps Engineer from India, working on Cloud and DevOps for 4.5 years now. Feel free to reach out for any Freelance Projects.</h3>
+<h3 align="center">🚀 A passionate DevOps Engineer from India with 5.5 years of IT experience, including 4.5 years specializing in Cloud & DevOps. Open to collaborating on freelance and innovative projects.</h3>
 
 ### 🌟 About Me  
-- 💻 **Software Engineer** with progressive **5.5 years of IT experience** in Development, automation, cloud, CI/CD, and containerization.  
+- 💻 Experienced **Software Engineer** with a strong background in Development, automation, cloud platforms, CI/CD pipelines, and containerization.  
 - 🔧 Skilled in **Azure DevOps, Kubernetes, Docker, Terraform, Ansible, Git, Bash, Linux**.  
-- ☁️ Hands-on with **AWS & Azure** for infrastructure provisioning.  
-- 📊 Experienced in **DevOps, Agile, Kanban Methodlogies**.  
-- 🌱 Currently learning **Site Reliability Engineering (SRE) & MLOps**.  
-- 👯 Looking to collaborate on **Cloud Native & Automation Projects**.  
+- ☁️ Hands-on with **AWS & Azure** for infrastructure provisioning and management.  
+- 📊 Proficient in **DevOps practices, Agile & Kanban methodologies.**
+- 🌱 Currently exploring **Site Reliability Engineering (SRE) and MLOps.**  
+- 👯 Looking to collaborate on **Cloud Native, Automation, and Infrastructure-as-Code projects.**  
 - 💬 Ask me about **DevOps, CI/CD, Cloud, Automation, Kubernetes, Terraform**.  
 - 📫 Reach me at **ktsreddy007@gmail.com**  
 
 ---
 
 ### 📜 Certifications  
-- 🏅 **AWS Certified Cloud Practitioner – 2023**  
+- 🏅 **AWS Certified Cloud Practitioner – 2023**
 - 🏅 **GitHub Foundations Certified – 2024**  
 - 🏅 **Gremlin Certified Chaos Engineering – 2024**  
 
@@ -44,6 +44,24 @@
 <a href="https://grafana.com"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/></a>
 <a href="https://prometheus.io"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/></a>
 <a href="https://splunk.com"><img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" height="40"/></a>
+<a href="https://github.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.jenkins.io/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/> 
+  </a> 
+  <a href="https://learn.microsoft.com/en-us/azure/azure-functions/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="40" height="40"/> 
+  </a> 
+  <a href="https://owasp.org/www-project-top-ten/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.microsoft.com/en-us/windows-server" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="40" height="40"/> 
+  </a> 
 </p>
 
 ---
