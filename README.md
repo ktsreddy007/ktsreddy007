@@ -44,24 +44,9 @@
 <a href="https://grafana.com"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/></a>
 <a href="https://prometheus.io"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/></a>
 <a href="https://splunk.com"><img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" height="40"/></a>
-<a href="https://github.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.jenkins.io/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/> 
-  </a> 
-  <a href="https://learn.microsoft.com/en-us/azure/azure-functions/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="40" height="40"/> 
-  </a> 
-  <a href="https://owasp.org/www-project-top-ten/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/windows-server" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="40" height="40"/> 
-  </a> 
+<a href="https://github.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"/></a> 
+<a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/></a> 
+<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" width="40" height="40"/></a> 
 </p>
 
 ---
