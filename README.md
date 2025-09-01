@@ -13,13 +13,6 @@
 
 ---
 
-### 📜 Certifications  
-- 🏅 **AWS Certified Cloud Practitioner – 2023**
-- 🏅 **GitHub Foundations Certified – 2024**  
-- 🏅 **Gremlin Certified Chaos Engineering – 2024**  
-
----
-
 ### 🌐 Connect with me  
 <p align="left">
 <a href="https://www.linkedin.com/in/tejasurendarreddy" target="_blank">
