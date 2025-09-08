@@ -124,6 +124,11 @@
 ---
 
 ### 📊 GitHub Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ktsreddy007&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ktsreddy007&show_icons=true&locale=en" alt="GitHub Stats" /></p>  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ktsreddy007" alt="GitHub Streak" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ktsreddy007&show_icons=true&theme=default" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktsreddy007&layout=compact&theme=default" alt="Top Languages" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktsreddy007&theme=default" alt="GitHub Streak" height="200"/>
+</p>
