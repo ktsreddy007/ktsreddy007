@@ -137,5 +137,3 @@
 - 📚 Spends more time exploring tech websites and official docs to stay updated on Cloud, DevOps, and DevSecOps.
 - 🔍 Always explores the latest innovations and best practices in Cloud, DevOps, and Software Engineering.
 - 🌍 Enjoy's traveling occasionally, especially visiting devotional places and exploring cultural sites.
-
----
