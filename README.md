@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teja Surendar Reddy Kovvuri</h1>
-<h3 align="center">🚀 A passionate DevOps Engineer from India with 5.5 years of IT experience, specializing in Cloud & DevOps. Open to collaborating on freelance and innovative projects.</h3>
+<h3 align="center">🚀 A passionate DevOps Engineer from India with over 5.5 years of IT experience, specializing in Cloud and DevOps solutions. Open to collaborating on freelance and innovative projects.</h3>
 
 ### 🌟 About Me  
 - 💻 Experienced **Software Engineer** with a strong background in Android Development, automation, cloud platforms, CI/CD pipelines, and containerization.  
@@ -8,12 +8,12 @@
 - 📊 Proficient in **DevOps practices, Agile & Kanban methodologies.**
 - 🌱 Currently exploring **Site Reliability Engineering (SRE) and MLOps.**  
 - 👯 Looking to collaborate on **Cloud Native, Automation, and Infrastructure-as-Code projects.**  
-- 💬 Ask me about **DevOps, CI/CD, Cloud, Automation, Kubernetes, Terraform**.  
+- 💬 Feel free to reach out with questions about **DevOps, CI/CD, Cloud Infrastructure, Ansible, Kubernetes, Terraform.**  
 - 📫 Reach me at **ktsreddy007@gmail.com**  
 
 ---
 
-### 🌐 Connect with me  
+### 🌐 Connect with me on  
 <p align="left">
 <a href="https://www.linkedin.com/in/tejasurendarreddy" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
