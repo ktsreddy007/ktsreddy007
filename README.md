@@ -132,10 +132,10 @@
 
 ### 🎯 Hobbies & Interests
 
-- 🏃‍♂️ Enjoy running and cycling to stay active and refreshed.
-- 🎬 Avid movie watcher — love exploring different genres and storytelling styles.
-- 📚 I spend more time exploring tech websites and official docs to stay updated on Cloud, DevOps, and DevSecOps.
-- 🔍 Always exploring the latest innovations and best practices in Cloud, DevOps, and DevSecOps.
-- 🛕 Enjoy traveling occasionally, especially visiting temples and exploring cultural sites.
+- 🏃‍♂️ I enjoy doing running and cycling to stay active and refreshed.
+- 🎬 An avid movie watcher — love exploring different genres and storytelling styles.
+- 📚 Spends more time exploring tech websites and official docs to stay updated on Cloud, DevOps, and DevSecOps.
+- 🔍 Always explores the latest innovations and best practices in Cloud, DevOps, and Software Engineering.
+- 🛕 Enjoy's traveling occasionally, especially visiting devotional places and exploring cultural sites.
 
 ---
