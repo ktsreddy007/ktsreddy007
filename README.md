@@ -119,6 +119,16 @@
 
 ---
 
+### 🎯 Hobbies & Interests
+
+- 🏃‍♂️ I enjoy doing running and cycling to stay active and refreshed.
+- 🎬 An avid movie watcher — love exploring different genres and storytelling styles.
+- 📚 Spends more time exploring tech websites and official docs to stay updated on Cloud, DevOps, and DevSecOps.
+- 🔍 Always explores the latest innovations and best practices in Cloud, DevOps, and Software Engineering.
+- 🌍 Enjoy's traveling occasionally, especially visiting devotional places and exploring cultural sites.
+
+---
+
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ktsreddy007&show_icons=true&theme=default" alt="GitHub Stats" height="200"/>
@@ -128,12 +138,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktsreddy007&theme=default" alt="GitHub Streak" height="200"/>
 </p>
 
----
 
-### 🎯 Hobbies & Interests
-
-- 🏃‍♂️ I enjoy doing running and cycling to stay active and refreshed.
-- 🎬 An avid movie watcher — love exploring different genres and storytelling styles.
-- 📚 Spends more time exploring tech websites and official docs to stay updated on Cloud, DevOps, and DevSecOps.
-- 🔍 Always explores the latest innovations and best practices in Cloud, DevOps, and Software Engineering.
-- 🌍 Enjoy's traveling occasionally, especially visiting devotional places and exploring cultural sites.
