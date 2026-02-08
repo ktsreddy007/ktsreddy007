@@ -103,7 +103,6 @@
     </td>
     <td align="center" style="padding:10px;">
       <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
-        <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40" alt="Linux"/>
         <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" width="40" height="40" alt="RedHat"/>
         <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="40" height="40" alt="Windows"/>
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"/>
