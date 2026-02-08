@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Teja Surendar Reddy Kovvuri</h1>
-<h3 align="center">🚀 Passionate DevOps Engineer from India with over 5.5 years of IT experience, specializing in Cloud and DevOps solutions. Open to collaborating on freelance and innovative projects.</h3>
+<h3 align="center">🚀 Passionate DevSecOps Engineer from India with over 6+ years of IT experience, specializing in Cloud and DevSecOps solutions. Open to collaborating on freelance and innovative projects.</h3>
 
 ### 🌟 About Me  
-- 💻 Experienced **Software Engineer** with a strong background in Android Development, automation, cloud platforms, CI/CD pipelines, and containerization.  
-- 🔧 Skilled in **Azure DevOps, Kubernetes, Docker, Terraform, Ansible, Git, Bash, Linux, Android**.  
+- 💻 Experienced **Software Engineer** with a strong background in Android Development, Automation, cloud platforms, CI/CD pipelines, and containerization.  
+- 🔧 Skilled in **Azure DevOps,Github Actions, Kubernetes,Helm, Docker, Terraform, Ansible, Git, Bash, Linux, Android**.  
 - ☁️ Hands-on with **AWS & Azure** for infrastructure provisioning and management.  
-- 📊 Proficient in **DevOps practices, Agile & Kanban methodologies.**
+- 📊 Proficient in **DevSecOps practices, Agile & Kanban methodologies.**
 - 🌱 Currently deepening expertise in **Site Reliability Engineering (SRE) and MLOps.**  
 - 👯 Looking to collaborate on **Cloud Native, Automation, and Infrastructure-as-Code projects.**  
-- 💬 Feel free to reach out with questions about **DevOps, CI/CD, Cloud Infrastructure, Ansible, Kubernetes, Terraform.**  
+- 💬 Feel free to reach out with questions about **DevSecOps, CI/CD, Cloud Infrastructure, Ansible, Kubernetes, Terraform.**  
 - 📫 Reach me at [ktsreddy007@gmail.com](mailto:ktsreddy007@gmail.com)
 
 ---
@@ -61,7 +61,7 @@
       <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" alt="Grafana"/>
         <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40" alt="Prometheus"/>
-        <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" height="40" alt="Splunk"/>
+        <img src="https://www.vectorlogo.zone/logos/datadog/datadog-icon.svg" width="40" height="40" alt="Datadog"/>
       </div>
     </td>
   </tr>
