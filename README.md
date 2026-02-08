@@ -54,6 +54,7 @@
       <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
         <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" alt="Docker"/>
         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes"/>
+        <img src="https://istio.io/latest/img/istio-logo.svg" width="40" height="40" alt="Istio Logo"/>
         <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40" height="40" alt="Helm"/>
       </div>
     </td>
@@ -89,7 +90,9 @@
     <td align="center" style="padding:10px;">
       <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="MS SQL"/>
+        <img src="https://logo.svgcdn.com/simple-icons/flyway-dark.svg" width="40" height="40" alt="Flyway Logo"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+        <img src="https://logo.svgcdn.com/devicon/liquibase-original.svg" width="40" height="40" alt="Liquibase Logo"/>
       </div>
     </td>
     <td align="center" style="padding:10px;">
