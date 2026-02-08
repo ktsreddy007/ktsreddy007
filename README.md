@@ -61,7 +61,7 @@
       <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" alt="Grafana"/>
         <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40" alt="Prometheus"/>
-        <img src="https://www.vectorlogo.zone/logos/datadog/datadog-icon.svg" width="40" height="40" alt="Datadog"/>
+        <img src="https://logo.svgcdn.com/logos/datadog-icon.svg" width="40" height="40" alt="Datadog"/>
       </div>
     </td>
   </tr>
