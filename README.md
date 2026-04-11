@@ -12,14 +12,6 @@
 - 📫 Reach me at [ktsreddy007@gmail.com](mailto:ktsreddy007@gmail.com)
 
 ---
-
-### 🌐 Connect with me on  
-<p align="left">
-<a href="https://www.linkedin.com/in/tejasurendarreddy" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-</a></p>
-
----
 ### 🛠️ Tools & Technologies  
 
 <table style="border:1px solid gray; border-collapse: collapse; table-layout: fixed; width:100%;">
